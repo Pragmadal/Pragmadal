@@ -1,4 +1,4 @@
-### Hi there 👋 check out [delbertina.com](https://delbertina.com)
+### Hi there 👋 check out [pragmadal.com](https://delbertina.com)
 
 
 - 🔭 I’m currently working on ... Making a cool and/or useful project with every relevant frontend technology that GitHub Pages supports.
